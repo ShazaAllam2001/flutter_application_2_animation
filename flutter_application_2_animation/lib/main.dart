@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'package:flutter_sign_up/sign_up.dart';
+import 'package:flutter_application_2_animation/sign_up.dart';
 
 void main() {
   runApp(const MyApp());

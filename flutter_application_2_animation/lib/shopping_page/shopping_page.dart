@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_sign_up/shopping_page/add_to_cart.dart';
-import 'package:flutter_sign_up/shopping_page/hot_offers.dart';
-import 'package:flutter_sign_up/shopping_page/my_products.dart';
+import 'package:flutter_application_2_animation/shopping_page/add_to_cart.dart';
+import 'package:flutter_application_2_animation/shopping_page/hot_offers.dart';
+import 'package:flutter_application_2_animation/shopping_page/my_products.dart';
 
 class ShoppingPage extends StatefulWidget {
   const ShoppingPage({super.key});
